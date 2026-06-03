@@ -19,6 +19,9 @@ and agent-assisted coding workflows.
 - [Raftersecurity/rafter-cli#153](https://github.com/Raftersecurity/rafter-cli/pull/153)
   added `rafter agent status --json` across the Node and Python CLIs, with tests
   and shared CLI documentation.
+- [Raftersecurity/rafter-cli#159](https://github.com/Raftersecurity/rafter-cli/pull/159)
+  added HashiCorp Vault token detection across the Node and Python scanners,
+  with true-positive and short-token false-positive coverage in both runtimes.
 
 ### Maintained Projects
 
@@ -41,4 +44,3 @@ and agent-assisted coding workflows.
 - Security policies and issue templates for open-source collaboration.
 - Evidence-first workflow: changes are scoped, tested, documented, and linked to
   upstream issues or maintainer feedback when possible.
-
