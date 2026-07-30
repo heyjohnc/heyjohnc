@@ -1,7 +1,9 @@
-# cettyTheDev
+# Hey, I'm Cetty 👋
 
-I build small maintainer tools around open-source readiness, GitHub automation,
-and agent-assisted coding workflows.
+I build things on the internet.
+
+Right now, I am exploring open-source tools, GitHub automation, and
+agent-assisted coding workflows.
 
 ## Current Focus
 
@@ -25,15 +27,15 @@ and agent-assisted coding workflows.
 
 ### Maintained Projects
 
-- [oss-readiness-checker](https://github.com/cettyTheDev/oss-readiness-checker)  
+- [oss-readiness-checker](https://github.com/heycetty/oss-readiness-checker)
   CLI that scores repository readiness for maintainers. Includes CI, issue/PR
   templates, security policy, examples, and tagged releases.
 
-- [codex-skill-radar](https://github.com/cettyTheDev/codex-skill-radar)  
+- [codex-skill-radar](https://github.com/heycetty/codex-skill-radar)
   GitHub radar for fast-growing repositories related to Codex skills and
   plugins. Produces Markdown reports and JSON snapshots.
 
-- [github-visualizer](https://github.com/cettyTheDev/github-visualizer)  
+- [github-visualizer](https://github.com/heycetty/github-visualizer)
   FastAPI + React + Three.js demo for rendering public GitHub contribution data
   into a shareable builder profile.
 
@@ -44,3 +46,9 @@ and agent-assisted coding workflows.
 - Security policies and issue templates for open-source collaboration.
 - Evidence-first workflow: changes are scoped, tested, documented, and linked to
   upstream issues or maintainer feedback when possible.
+
+## Support
+
+If you find my work useful, you can buy me a coffee ☕
+
+Wallet: `8LS28Yv4TfvrK7uwNvUMWCGGKwANoBdgyTEur8ejxRrD`
