@@ -1,54 +1,70 @@
-# Hey, I'm Cetty 👋
+# Hi, I'm John 👋
 
-I build things on the internet.
+I build practical AI applications, product prototypes, and workflow automation.
 
-Right now, I am exploring open-source tools, GitHub automation, and
-agent-assisted coding workflows.
+My background combines web development, design, client communication, and
+end-to-end project delivery. I am now focused on turning real operational
+problems into usable AI-powered products: framing the problem, designing the
+workflow, integrating services, testing the result, and iterating with users.
 
-## Current Focus
+- Hong Kong permanent resident, currently based in Shenzhen
+- Open to opportunities in Hong Kong
+- Interested in AI Application Engineering, AI Prototyping, AI Automation,
+  AI Solutions, and technical product roles
 
-- OSS maintainer workflow tooling: repository readiness checks, CI hygiene,
-  documentation structure, and release process signals.
-- Codex and agent ecosystem research: tracking useful skill/plugin repositories
-  and turning findings into reproducible reports.
-- Practical upstream contributions with tests and documentation, especially for
-  CLI behavior and maintainer automation.
+## What I Build
 
-## OSS Work
+### AI Image and Video Workflow
 
-### Merged Upstream Contribution
+An end-to-end web workflow that turns a user's idea into scripts and generation
+prompts, submits image or video jobs, tracks asynchronous status, and returns
+the final output.
+
+My work includes workflow design, prompt logic, API integration, persistence,
+rate limiting, job handling, testing, and product iteration.
+
+**Stack:** TypeScript, Next.js, React, Gemini, fal.ai, and VPS deployment
+
+### Open-Source Maintainer Tools
+
+- [oss-readiness-checker](https://github.com/heyjohnc/oss-readiness-checker) —
+  a CLI that evaluates repository readiness signals such as CI, documentation,
+  contribution templates, security policy, and release practices.
+- [codex-skill-radar](https://github.com/heyjohnc/codex-skill-radar) — a GitHub
+  research workflow that tracks growing Codex skill and plugin repositories and
+  produces Markdown reports and JSON snapshots.
+- [github-visualizer](https://github.com/heyjohnc/github-visualizer) — a FastAPI,
+  React, and Three.js experiment for turning public GitHub contribution data
+  into a visual builder profile.
+
+## Open-Source Contributions
 
 - [Raftersecurity/rafter-cli#153](https://github.com/Raftersecurity/rafter-cli/pull/153)
-  added `rafter agent status --json` across the Node and Python CLIs, with tests
-  and shared CLI documentation.
+  added `rafter agent status --json` across the Node and Python CLIs, including
+  tests and shared CLI documentation.
 - [Raftersecurity/rafter-cli#159](https://github.com/Raftersecurity/rafter-cli/pull/159)
   added HashiCorp Vault token detection across the Node and Python scanners,
-  with true-positive and short-token false-positive coverage in both runtimes.
+  including true-positive and short-token false-positive coverage.
 
-### Maintained Projects
+## Working Toolkit
 
-- [oss-readiness-checker](https://github.com/heycetty/oss-readiness-checker)
-  CLI that scores repository readiness for maintainers. Includes CI, issue/PR
-  templates, security policy, examples, and tagged releases.
+- **Application development:** TypeScript, JavaScript, Next.js, React
+- **AI integration:** prompt workflows, model APIs, asynchronous generation jobs
+- **Backend and data:** API routes, Python, FastAPI, persistence, rate limiting
+- **Delivery:** Git, GitHub Actions, VPS deployment, documentation, testing
+- **Product work:** problem framing, workflow design, rapid prototyping,
+  client communication, and iterative delivery
 
-- [codex-skill-radar](https://github.com/heycetty/codex-skill-radar)
-  GitHub radar for fast-growing repositories related to Codex skills and
-  plugins. Produces Markdown reports and JSON snapshots.
+## How I Work
 
-- [github-visualizer](https://github.com/heycetty/github-visualizer)
-  FastAPI + React + Three.js demo for rendering public GitHub contribution data
-  into a shareable builder profile.
+`Problem framing → workflow design → prototype → integrate → test → iterate`
 
-## Maintenance Signals
+I care about evidence over labels: clear ownership, reproducible results,
+honest capability boundaries, and documentation that another person or agent
+can continue from.
 
-- Public repositories with CI workflows and contribution templates.
-- Tagged releases for the main maintainer tools.
-- Security policies and issue templates for open-source collaboration.
-- Evidence-first workflow: changes are scoped, tested, documented, and linked to
-  upstream issues or maintainer feedback when possible.
+## Current Direction
 
-## Support
-
-If you find my work useful, you can buy me a coffee ☕
-
-Wallet: `8LS28Yv4TfvrK7uwNvUMWCGGKwANoBdgyTEur8ejxRrD`
+I am strengthening my portfolio around production-minded AI applications,
+evaluation, reliability, and user-facing product delivery while preparing for
+AI application and prototype engineering opportunities in Hong Kong.
