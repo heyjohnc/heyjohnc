@@ -7,9 +7,26 @@ end-to-end project delivery. I am now focused on turning real operational
 problems into usable AI-powered products: framing the problem, designing the
 workflow, integrating services, testing the result, and iterating with users.
 
-## What I Build
+## Selected Projects
 
-### AI Image and Video Workflow
+### [Niulai Shengmi Squad](https://github.com/heyjohnc/niulai-shengmi-squad)
+
+A deterministic, offline, read-only four-Agent decision-system reference
+implementation. It demonstrates frozen independent votes, a paper-only
+lifecycle, a canonical timeline, public-field projection, provider-neutral
+model contracts, local fallbacks, and a fake-transport safety lab.
+
+I defined the product rules, Agent roles, decision and permission boundaries,
+public/private separation, and acceptance gates. The repository explicitly
+documents coding-Agent assistance instead of implying that every line was
+written manually.
+
+**Evidence:** automated tests, deterministic fixtures, validation scripts, CI,
+architecture and verification documentation
+
+**Stack:** Node.js, JavaScript, HTML/CSS, REST-style GET-only API, GitHub Actions
+
+### AI Image and Video Workflow — Private Project
 
 An end-to-end web workflow that turns a user's idea into scripts and generation
 prompts, submits image or video jobs, tracks asynchronous status, and returns
@@ -20,7 +37,10 @@ rate limiting, job handling, testing, and product iteration.
 
 **Stack:** TypeScript, Next.js, React, Gemini, fal.ai, and VPS deployment
 
-### Open-Source Maintainer Tools
+**Disclosure:** the source code and live demo are not currently public; this is
+a high-level project summary rather than a public verification claim.
+
+### Open-Source Developer Tools
 
 - [oss-readiness-checker](https://github.com/heyjohnc/oss-readiness-checker) —
   a CLI that evaluates repository readiness signals such as CI, documentation,
@@ -44,9 +64,11 @@ rate limiting, job handling, testing, and product iteration.
 ## Working Toolkit
 
 - **Application development:** TypeScript, JavaScript, Next.js, React
-- **AI integration:** prompt workflows, model APIs, asynchronous generation jobs
-- **Backend and data:** API routes, Python, FastAPI, persistence, rate limiting
-- **Delivery:** Git, GitHub Actions, VPS deployment, documentation, testing
+- **AI integration:** prompt and Agent workflows, model APIs, asynchronous jobs
+- **Backend and data:** API design, Node.js, Python/FastAPI prototypes,
+  persistence and rate-limiting patterns
+- **Delivery and evidence:** Git, GitHub Actions, tests, deterministic fixtures,
+  validation scripts, documentation, and VPS deployment
 - **Product work:** problem framing, workflow design, rapid prototyping,
   client communication, and iterative delivery
 
