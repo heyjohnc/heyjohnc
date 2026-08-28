@@ -7,11 +7,6 @@ end-to-end project delivery. I am now focused on turning real operational
 problems into usable AI-powered products: framing the problem, designing the
 workflow, integrating services, testing the result, and iterating with users.
 
-- Hong Kong permanent resident, currently based in Shenzhen
-- Open to opportunities in Hong Kong
-- Interested in AI Application Engineering, AI Prototyping, AI Automation,
-  AI Solutions, and technical product roles
-
 ## What I Build
 
 ### AI Image and Video Workflow
@@ -63,8 +58,7 @@ I care about evidence over labels: clear ownership, reproducible results,
 honest capability boundaries, and documentation that another person or agent
 can continue from.
 
-## Current Direction
+## Current Focus
 
 I am strengthening my portfolio around production-minded AI applications,
-evaluation, reliability, and user-facing product delivery while preparing for
-AI application and prototype engineering opportunities in Hong Kong.
+evaluation, reliability, and user-facing product delivery.
