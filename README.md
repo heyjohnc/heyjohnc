@@ -13,7 +13,7 @@ and deciding what is ready to deliver.
 
 ## Selected Work
 
-### [FightGame](https://johnchong.info/from-github-fightgame) — Client Project
+### [FightGame](https://johnchong.info/fightgame.html) — Client Project
 
 A personalised-avatar multiplayer pixel RPG with a shared online world and
 synchronised one-versus-one skill-card battles. The system combines a Phaser
