@@ -9,11 +9,11 @@ or operational need into a working product by defining the scope and rules,
 designing the workflow, coordinating implementation, testing real user paths,
 and deciding what is ready to deliver.
 
-**Portfolio:** [johnchong.info](https://johnchong.info)
+**Portfolio:** [johnchong.info](https://johnchong.info/from-github)
 
 ## Selected Work
 
-### [FightGame](https://johnchong.info/fightgame.html) — Client Project
+### [FightGame](https://johnchong.info/from-github-fightgame) — Client Project
 
 A personalised-avatar multiplayer pixel RPG with a shared online world and
 synchronised one-versus-one skill-card battles. The system combines a Phaser
@@ -41,7 +41,7 @@ public/private separation, and acceptance gates. The public repository is an
 offline clean-room reference: it demonstrates the technical and governance
 design without claiming live trading or external write execution.
 
-### [Ask John](https://johnchong.info) — Portfolio Assistant
+### [Ask John](https://johnchong.info/from-github) — Portfolio Assistant
 
 A bounded AI assistant built into my portfolio. It answers questions from an
 approved public knowledge base and allowlisted project sources, exposes its
